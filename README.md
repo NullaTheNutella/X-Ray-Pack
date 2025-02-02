@@ -1,2 +1,3 @@
 # X-Ray-Pack
-Its just a normal X-Ray pack for Bloxd.io
+X-Ray Texture pack for Bloxd.Io
+
